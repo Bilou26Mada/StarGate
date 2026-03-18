@@ -1,4 +1,4 @@
-name = "stargate-worker"
+name = "stargate"
 main = "index.js"
 compatibility_date = "2024-03-18"
 
