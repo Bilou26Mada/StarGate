@@ -1,0 +1,7 @@
+name = "stargate-worker"
+main = "index.js"
+compatibility_date = "2024-03-18"
+
+[vars]
+# Define your non-secret variables here
+# Secret variables (WEBHOOK_SECRET, BOT_TOKEN, CHAT_ID) should be set in the Cloudflare Dashboard.
